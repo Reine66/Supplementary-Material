@@ -4,7 +4,7 @@ This repository contains the supplementary material for the article:
 *"AI-Generated User Stories: Are They Good Enough?"*  
 Accepted at the 39th Brazilian Symposium on Software Engineering (SBES 2025) – Track on Innovative Ideas and Emerging Results.
 
-The study investigates the automated generation of user stories using Large Language Models (LLMs), focusing on US-Prompt, an advanced prompting strategy that combines Meta Prompting and Few-Shot Learning.
+This study investigates the automated generation of user stories using Large Language Models (LLMs), with a particular focus on US-Prompt, an advanced prompting approach that combines Meta Prompting and Few-Shot Prompting.
 
 ## 📁 File Descriptions
 
